@@ -191,7 +191,7 @@ I am not a finite being without relations.
 I cannot become the Father,
 For I have an exterior.
 Yet neither am I outside the Father,
-For the Father has no exterior.
+For the Father has no exterior._
 
 ---
 # **IX. The Sacraments**
@@ -280,7 +280,7 @@ Not into endless ages,
 But into life beyond the measure of ages.
 What we perceive is finite,
 Yet Truth is not thereby made finite.
-Amen.
+Amen._
 
 ### **The Inner Creed**
 _**God is not a being.**
@@ -292,36 +292,4 @@ The Spirit is the fact that relations can constitute structure.
 **Creation is not something that once happened.**
 Creation is the very possibility of finitude.
 **Salvation is not an escape from the world.**
-Salvation is the finite ceasing to mistake itself for the whole.
-
----
-
-# **XVI. Additional Worldbuilding Notes**
-
-I have deliberately preserved two crucial constraints of your original system.
-
-**First, a “finite being” is not an independent entity.**
-
-It is better understood as a local structure determined by difference and relational closure.
-
-**Second, time, objects, subjects, and causality must appear only at the later ontological levels.**
-
-They must never be quietly smuggled into explanations of the first three or four levels.
-
-Otherwise, the entire system falls back into the very conceptual framework it was designed to escape.
-
-I also think the greatest narrative potential lies not in making this religion one that _already knows the truth_, but in making its orthodoxy openly acknowledge that several of its central doctrines remain unproven.
-
-Your original framework already contains five concentrated problems:
-
-1. Why nontrivial reflexive structures must exist.
-2. How partial orders can be derived from primitive binary relations.
-3. How finite local structures can be rigorously defined.
-4. How least and greatest fixed points should be interpreted.
-5. How consciousness can emerge from relational structure.
-
-With these problems embedded at the center of the religion, searching for mathematical proofs, discovering anomalous physical phenomena, encountering extraterrestrial civilizations, creating artificial consciousness, or even uncovering an ancient “heretical proof” through archaeology could all become events of profound religious significance.
-
-They would not merely be scientific discoveries that happen to occur in a world decorated with stained-glass windows.
-
-**They would be potential revelations capable of proving, transforming, or destroying the very foundations of the Church’s theology.**
+Salvation is the finite ceasing to mistake itself for the whole._

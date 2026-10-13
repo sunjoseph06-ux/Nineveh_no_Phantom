@@ -1,4 +1,4 @@
-*The great city, which should be reined thousands of years ago, but forgiven.*
+*The great city, which should be ruined thousands of years ago, but forgiven.*
 The place where all stories happen.
 **Location:** We don't know where it is. 
 

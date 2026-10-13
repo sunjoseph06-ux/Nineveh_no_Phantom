@@ -38,7 +38,7 @@ The disturbing part is not that she talks nonsense. It is that some of the nonse
 
 ### **Mirror to the Ultimate AI SAPERE** 
 
-SPERE is an **answer deliberately produced by institutions**.  
+SAPERE is an **answer deliberately produced by institutions**.  
 Demon-Chan is a **question that grew in the cracks between them**.
 
 Where the AI is pure, restrained, precise, and icon-like, she is excessive, contaminated, provocative, and unmistakably human. She is not its opposite, but its **dirty mirror**.
